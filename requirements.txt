@@ -1,0 +1,7 @@
+streamlit
+together
+pdfplumber
+python-docx
+pytesseract
+Pillow
+pdf2image
