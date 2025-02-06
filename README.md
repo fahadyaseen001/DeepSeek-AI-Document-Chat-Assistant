@@ -1,4 +1,4 @@
-# DeepSeek AI Document Chat Assistant 🤖
+<div align="center"> <img src="deepseek-color.png" alt="DeepSeek Logo" width="80" height="80"> <h1>DeepSeek AI Document Chat Assistant</h1> </div>
 
 A streamlined document chat application powered by DeepSeek-R1 that allows users to upload documents and engage in natural conversations about their content. This application supports PDF, DOCX, and image files, making it versatile for various document types.
 
